@@ -4,10 +4,10 @@ const mysql = require("mysql2");
 const cors = require("cors");
 
 const db = mysql.createPool({
-    host: "localhost",
-    user:"root",
-    password:"YES",
-    database:"Form",
+    host: "us-cdbr-east-05.cleardb.net",
+    user:"b2683b76d17ebb",
+    password:"759e9aeb",
+    database:"heroku_562c36c31babfd5",
 });
 
 app.use(cors());
