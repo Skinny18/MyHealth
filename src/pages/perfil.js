@@ -25,7 +25,10 @@ function Perfil() {
                          <details>
                              <summary id="h111" >Dados</summary>
                              <h2>Nome Completo:</h2>
-                             <h3>Gabriel Carlos Carvalho</h3>
+                             <p id='p2'>Gabriel Carlos Carvalho Pinto</p>
+                             <h2>Data de Nascimento:</h2>
+                             <p id="p2">25/03/2003</p>
+                             
 
                          </details>
                          
