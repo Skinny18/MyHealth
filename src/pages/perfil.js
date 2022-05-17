@@ -24,7 +24,8 @@ function Perfil() {
                          <h1>-Seus Dados-</h1>
                          <details>
                              <summary id="h111" >Dados</summary>
-                             <p>Ola</p>
+                             <h2>Nome Completo:</h2>
+                             <h3>Gabriel Carlos Carvalho</h3>
 
                          </details>
                          
