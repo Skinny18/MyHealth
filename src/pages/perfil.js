@@ -28,6 +28,15 @@ function Perfil() {
                              <p id='p2'>Gabriel Carlos Carvalho Pinto</p>
                              <h2>Data de Nascimento:</h2>
                              <p id="p2">25/03/2003</p>
+                             <h2>Email:</h2>
+                             <p id="p2">gcgabriel257@gmail.com</p>
+                             <h2>Telefone/Celular:</h2>
+                             <p id="p2">(92) 99171-9196</p>
+                             <h2>Contato de Emergencia:</h2>
+                             <p id="p2">(92) 99241-4142</p>
+                             <p id="p2">Grau de Parentesco(Tio/Tia)</p>
+                             <h2>Endereco:</h2>
+                             <p id='p2'>Rua Padre Caleri</p>
 
 
                          </details>
