@@ -16,7 +16,7 @@ function Form() {
 	const[listForm, setListForm] = useState()
 	;
 	const handleClickButton = () =>{
-		Axios.post("http://localhost:3001/register",
+		Axios.post("http://localhost:3306/register",
 		{
 			name_form: values.name_form,
 			email_form: values.email_form,
@@ -40,7 +40,7 @@ function Form() {
 	};
 
 	useEffect(()=>{
-		Axios.get("https://localhost:3000/perfil").then((response) => {
+		Axios.get("https://localhost:3306/perfil").then((response) => {
 			setListForm(response.data);
 		});
 	},[])
