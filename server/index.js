@@ -39,6 +39,6 @@ app.get("/perfil", (req, res)=>{
     });
 });
 
-app.listen(3306, () => {
+app.listen(3001, () => {
     console.log("rodando servidor");
 });

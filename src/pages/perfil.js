@@ -14,7 +14,7 @@ function Perfil() {
             <div id="geral">
             <div id="cabecalho">
                 <img align="left" height="89" src={hlogo }/>
-                <Link to='/principal'><h1 id="h111">My<span id="red">Health</span></h1></Link>
+                <Link to='/'><h1 id="h111">My<span id="red">Health</span></h1></Link>
             </div>
             <p></p>
             <div id="principal">

@@ -16,7 +16,7 @@ function Form() {
 	const[listForm, setListForm] = useState()
 	;
 	const handleClickButton = () =>{
-		Axios.post("http://localhost:3306/register",
+		Axios.post("http://localhost:3001/register",
 		{
 			name_form: values.name_form,
 			email_form: values.email_form,
@@ -40,7 +40,7 @@ function Form() {
 	};
 
 	useEffect(()=>{
-		Axios.get("https://localhost:3306/perfil").then((response) => {
+		Axios.get("https://localhost:3001/perfil").then((response) => {
 			setListForm(response.data);
 		});
 	},[])
@@ -49,7 +49,7 @@ function Form() {
        <div id="geral">
     <div id="cabecalho">
     	<img align="left" height="89" src={hlogo} />
-    	<Link to='/principal'><h1 id="h111" >My<span id="red">Health</span></h1></Link>
+    	<Link to='/'><h1 id="h111" >My<span id="red">Health</span></h1></Link>
     </div>
     <div id="principal">
         <div id="conteudo-1">

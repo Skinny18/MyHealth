@@ -7,6 +7,10 @@ body {
 	background: #4A525A;
 }
 
+Link{
+	padding: 0;
+}
+
 #geral{
 	width: 960px;
 	margin: 0 auto;
