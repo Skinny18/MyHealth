@@ -52,22 +52,22 @@ function Perfil() {
                              <p id='p2'></p>
                              <h2>Possui algum tipo de alergia?Se sim qual?</h2>
                              <p id='p2'></p>
-                             <h3>Descreva</h3>
+                             <h2>Descreva</h2>
                              <p id='p2'></p>
                              <h2>Utiliza algum tipo de medicamento? Se sim qual?</h2>
                              <p id='p2'></p>
-                             <h3>Descreva</h3>
+                             <h2>Descreva</h2>
                              <p id='p2'></p>
                              <h2>Fez alguma cirurgia? Se sim descreva</h2>
                              <p id='p2'></p>
-                             <h3>Descreva</h3>
+                             <h2>Descreva</h2>
                              <p id='p2'></p>
                              <h2>Possui diabetes? Se sim, qual tipo?</h2>
                              <p id='p2'></p>
                              <p id='p2'></p>
                              <h2>É portador de IST(Infeccoes sexualmente transmissiveis?</h2>
                              <p id='p2'></p>
-                             <h3>Descreva</h3>
+                             <h2>Descreva</h2>
                              <p id='p2'></p>
                              <h2>Historico familiar de doencas? Se sim quaL?</h2>
                              <p id='p2'></p>
