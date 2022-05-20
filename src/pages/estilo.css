@@ -178,6 +178,7 @@ p {
 
 #titulo{
 	float: center;
+	width: 100px;
 }
 
 #imagem{
