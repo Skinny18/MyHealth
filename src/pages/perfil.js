@@ -13,7 +13,7 @@ function Perfil() {
             <div id="geral">
             <div id="cabecalho">
                 <img align="left" height="89" src={hlogo }/>
-                <h1 id="h111">My<span id="red">Health</span></h1>
+                <Link to='/principal'><h1 id="h111">My<span id="red">Health</span></h1></Link>
             </div>
             <p></p>
             <div id="principal">
@@ -25,18 +25,20 @@ function Perfil() {
                          <details>
                              <summary id="h111" >Dados</summary>
                              <h2>Nome Completo:</h2>
-                             <p id='p2'>Gabriel Carlos Carvalho Pinto</p>
+                             <p id='p2'>João Victor da Silva</p>
                              <h2>Data de Nascimento:</h2>
-                             <p id="p2">25/03/2003</p>
+                             <p id="p2">25/08/1997</p>
                              <h2>Email:</h2>
-                             <p id="p2">gcgabriel257@gmail.com</p>
+                             <p id="p2">jv123dasilva@gmail.com</p>
                              <h2>Telefone/Celular:</h2>
-                             <p id="p2">(92) 99171-9196</p>
+                             <p id="p2">(92) 99293-7489</p>
                              <h2>Contato de Emergencia:</h2>
-                             <p id="p2">(92) 99241-4142</p>
-                             <p id="p2">Grau de Parentesco(Tio/Tia)</p>
+                             <p id="p2">(92) 99137-5674</p>
+                             <p id="p2">Grau de Parentesco(Pai/Mãe)</p>
                              <h2>Endereco:</h2>
                              <p id='p2'>Rua Padre Caleri</p>
+                             <h2></h2>
+                             <p id='p2'></p>
 
 
                          </details>
