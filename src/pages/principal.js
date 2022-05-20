@@ -11,7 +11,7 @@ function Princ() {
           <div id="geral">
 		<div id="cabecalho"> 
 			<img align="left" height="89" src={hlogo}/>
-			<Link to='/'><h1 id="h111" >My<span id="red">Health</span></h1></Link>
+			<h1 id="h111" >My<span id="red">Health</span></h1>
 		</div>
 		<div id="principal">
 			<p></p>
