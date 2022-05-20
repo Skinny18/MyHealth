@@ -10,8 +10,8 @@ function Princ() {
     <>
           <div id="geral">
 		<div id="cabecalho"> 
-			<img align="left" height="89" src={hlogo}/>
-			<h1 id="h111" >My<span id="red">Health</span></h1>
+			<div id='imagem'><img align="left" height="89" src={hlogo}/></div>
+			<div id='titulo'><h1 id="h111" >My<span id="red">Health</span></h1></div>
 		</div>
 		<div id="principal">
 			<p></p>
