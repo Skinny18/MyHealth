@@ -1,4 +1,9 @@
-
+@media screen and (max-width: 600px){
+	cabecalho {
+		width: 100%;
+	}
+	
+}
 
 body {
 	margin: 0;
