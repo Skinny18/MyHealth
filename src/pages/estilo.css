@@ -212,7 +212,7 @@ img{
 
 			font-size: 30px;
   color: white;
-  padding: 1px 0 4px 0;
+  padding: 1px 0 0px 0;
   font-family: Arial,sans-serif;
   font-weight: bold;
   text-align: center;
@@ -220,6 +220,8 @@ img{
   padding-bottom: 15px;
 
 }
+
+
 
 #h22{
 	font-size: 25px;
