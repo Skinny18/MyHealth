@@ -1,17 +1,16 @@
 import React from 'react'; 
 import  './estilo.css';
-
+import hlogo from './imagens/hlogo.png'
+import { Switch,  Route, Link, Routes } from 'react-router-dom';
 
 function Cad() {
   return (
     <>
           <div id="geral">
-          <div id="cabecalho">
-              
-              <img align="left" height="89" src="imagens/frame.png"/>
-              <h1 id="h111">My<span id="red">Health</span></h1>
-
-          </div>
+          <div id="cabecalho"> 
+			      <div id='imagem'><img align="left" height="92" src={hlogo}/></div>
+			      <div id='titulo'><Link to='/'><h1 id="h111" >My<span id="red">Health</span></h1></Link></div>
+		      </div>
           <div id="principal">
               <div id="conteudo-1">
                   <p>

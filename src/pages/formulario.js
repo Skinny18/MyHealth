@@ -47,10 +47,11 @@ function Form() {
   return (
     <>
        <div id="geral">
-    <div id="cabecalho">
-    	<img align="left" height="89" src={hlogo} />
-    	<Link to='/'><h1 id="h111" >My<span id="red">Health</span></h1></Link>
-    </div>
+	   <div id="cabecalho"> 
+			<div id='imagem'><img align="left" height="92" src={hlogo}/></div>
+			<div id='titulo'><Link to='/'><h1 id="h111" >My<span id="red">Health</span></h1></Link></div>
+		</div>
+
     <div id="principal">
         <div id="conteudo-1">
         	<p>
