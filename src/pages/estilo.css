@@ -172,9 +172,10 @@ p {
 
 #titulo{
 	float: center;
+	
 	margin-left: 320px;
 	margin-right: 320px;
-	margin-bottom: 15px;
+	
 }
 
 #imagem{
