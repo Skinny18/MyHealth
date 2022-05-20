@@ -37,9 +37,45 @@ function Perfil() {
                              <p id="p2">(92) 99137-5674</p>
                              <p id="p2">Grau de Parentesco(Pai/Mãe)</p>
                              <h2>Endereco:</h2>
-                             <p id='p2'>Rua Padre Caleri</p>
-                             <h2></h2>
+                             <p id='p2'>Rua </p>
+                             <h2>CEP:</h2>
                              <p id='p2'></p>
+                             <h2>Bairro:</h2>
+                             <p id='p2'></p>
+                             <h2>Cidade:</h2>
+                             <p id='p2'></p>
+                             <h2>Estado:</h2>
+                             <p id='p2'></p>
+                             <h2>Cidade de Nascimento:</h2>
+                             <p id='p2'></p>
+                             <h2>Tipo Sanguineo:</h2>
+                             <p id='p2'></p>
+                             <h2>Possui algum tipo de alergia?Se sim qual?</h2>
+                             <p id='p2'></p>
+                             <h3>Descreva</h3>
+                             <p id='p2'></p>
+                             <h2>Utiliza algum tipo de medicamento? Se sim qual?</h2>
+                             <p id='p2'></p>
+                             <h3>Descreva</h3>
+                             <p id='p2'></p>
+                             <h2>Fez alguma cirurgia? Se sim descreva</h2>
+                             <p id='p2'></p>
+                             <h3>Descreva</h3>
+                             <p id='p2'></p>
+                             <h2>Possui diabetes? Se sim, qual tipo?</h2>
+                             <p id='p2'></p>
+                             <p id='p2'></p>
+                             <h2>É portador de IST(Infeccoes sexualmente transmissiveis?</h2>
+                             <p id='p2'></p>
+                             <h3>Descreva</h3>
+                             <p id='p2'></p>
+                             <h2>Historico familiar de doencas? Se sim quaL?</h2>
+                             <p id='p2'></p>
+                             <h3>Descreva</h3>
+                             <p id='p2'></p>
+                             
+
+
 
 
                          </details>

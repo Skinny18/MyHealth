@@ -1,6 +1,6 @@
 import React from 'react' 
 import { Switch,  Route, Link, Routes } from 'react-router-dom';
-import frame from './imagens/frame.png'
+import myhealth from './imagens/myhealth.png'
 import hlogo from './imagens/hlogo.png'
 
 
@@ -38,7 +38,7 @@ function Princ() {
 
 				<div  id="conteudo-2-1">
 
-					<img id="img1" height="89" src={frame}/>
+					<img id="img1" height="89" src={myhealth}/>
 
 					<details>
 					<summary id="h111">Quem Somos?</summary>
