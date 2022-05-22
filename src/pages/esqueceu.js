@@ -31,9 +31,9 @@ function Esque() {
        				<p><label for="pass">Repita a senha</label></p>
        				<input id="name" type="password" name="pass"/>
 
-       				<a href="projeto.html">
+       				<Link to='/principal'>
                     <p><input type="submit" value="Avancar"/></p>
-                </a>    
+               </Link>   
             </div>
             <div id="conteudo-2-2-2"></div>
         </div>

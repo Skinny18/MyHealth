@@ -49,9 +49,9 @@ function Cad() {
                   </fieldset>
 
 
-                      <a href="projeto.html">
+                      <Link to='/principal'>
                           <p><input type="submit" value="Cadastrar"/></p>
-                      </a>    
+                      </Link>   
 
 
                   </div>
