@@ -49,7 +49,7 @@ function Cad() {
                   </fieldset>
 
 
-                      <Link to='/principal'>
+                      <Link to='/'>
                           <p><input type="submit" value="Cadastrar"/></p>
                       </Link>   
 
