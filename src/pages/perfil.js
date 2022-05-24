@@ -37,42 +37,42 @@ function Perfil() {
                              <p id="p2">(92) 99137-5674</p>
                              <p id="p2">Grau de Parentesco(Pai/Mãe)</p>
                              <h2>Endereco:</h2>
-                             <p id='p2'>Rua </p>
+                             <p id='p2'>Rua Augusto Carneiro; Numero:72  </p>
                              <h2>CEP:</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>69043-171</p>
                              <h2>Bairro:</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Alvorada</p>
                              <h2>Cidade:</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Manaus</p>
                              <h2>Estado:</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Amazonas</p>
                              <h2>Cidade de Nascimento:</h2>
                              <p id='p2'></p>
                              <h2>Tipo Sanguineo:</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>O+</p>
                              <h2>Possui algum tipo de alergia?Se sim qual?</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Sim.</p>
                              <h2>Descreva</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Alergia a fungos; Alergia a sulfato</p>
                              <h2>Utiliza algum tipo de medicamento? Se sim qual?</h2>
                              <p id='p2'></p>
                              <h2>Descreva</h2>
                              <p id='p2'></p>
                              <h2>Fez alguma cirurgia? Se sim descreva</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Nao</p>
                              <h2>Descreva</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Nao fez nenhuma cirurgia</p>
                              <h2>Possui diabetes? Se sim, qual tipo?</h2>
-                             <p id='p2'></p>
-                             <p id='p2'></p>
+                             <p id='p2'>Sim</p>
+                             <p id='p2'>Diabetes tipo 1</p>
                              <h2>É portador de IST(Infeccoes sexualmente transmissiveis?</h2>
-                             <p id='p2'></p>
+                             <p id='p2'>Nao</p>
                              <h2>Descreva</h2>
-                             <p id='p2'></p>
-                             <h2>Historico familiar de doencas? Se sim quaL?</h2>
-                             <p id='p2'></p>
-                             <h3>Descreva</h3>
-                             <p id='p2'></p>
+                             <p id='p2'>Nao é portador de IST(infeccoes sexualmente transmissiveis)</p>
+                             <h2>Historico familiar de doencas? Se sim qual?</h2>
+                             <p id='p2'>Sim</p>
+                             <h2>Descreva</h2>
+                             <p id='p2'>Na familia a casos de Hipertensão e Cancer</p>
                              
 
 
